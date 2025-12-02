@@ -4,8 +4,8 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img src="![kengiss](https://github.com/user-attachments/assets/174fe5fa-71b9-4a24-bb98-f74c7e1f34a2)
-" alt="Profile Photo" width="150" />
+  <img src="" alt="![kengiss](https://github.com/user-attachments/assets/41eb7fb0-4e62-47bb-90ba-854434682d6f)"
+ width="150" />
 
   <div>
 
