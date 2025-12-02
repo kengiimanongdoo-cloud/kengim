@@ -1,6 +1,6 @@
  # KengiM Profile
 
-<img src="mypicture.jpg" alt="Profile Picture" width="200">
+<img src="mypicture.jpg" alt="74229e34-fe5b-4579-a313-abe24e7bf27b.jpg" width="200">
 
 *Name:* Kengi B. Manongdo 
 *Course:* Bachelor of Science in Information Technology  
