@@ -1,12 +1,12 @@
- # Luis Kenneth's Profile
+ # KengiM Profile
 
 <img src="mypicture.jpg" alt="Profile Picture" width="200">
 
-*Name:* Luis Kenneth D. Fajardo  
+*Name:* Kengi B. Manongdo 
 *Course:* Bachelor of Science in Information Technology  
 *School:* New Era University  
-*Contact Number:* 0916 432 6568  
-*Email:* luiskenneth.fajardo@neu.edu.ph  
+*Contact Number:* 09319501185
+*Email:* kengi.manongdo@neu.edu.ph
 
 ---
 
