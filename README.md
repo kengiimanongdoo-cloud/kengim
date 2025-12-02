@@ -4,7 +4,7 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img src="mypicture.jpg" alt="Profile Photo" width="150" />
+  <img src="kengiss.jpg" alt="Profile Photo" width="150" />
 
   <div>
 
