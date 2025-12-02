@@ -36,28 +36,6 @@
 - HTML / CSS  
 - JavaScript  
 
-### Tools & Software
-- SQL Databases  
-- Excel  
-- Visual Studio Code  
-- Git & GitHub  
-
----
-
-## Projects
-
-### Project Name 1
-Short description of your project.  
-➡ *Tech used:* HTML, CSS, JS  
-➡ *Link:* [GitHub Repo](#)
-
-### Project Name 2
-Short description of another project.  
-➡ *Tech used:* Python  
-➡ *Link:* [GitHub Repo](#)
-
----
-
 ## Connect With Me
 
 - **Facebook:**  
