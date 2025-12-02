@@ -1,7 +1,6 @@
  # KengiM Profile
 
-<img src="mypicture.jpg" alt="Pro![74229e34-fe5b-4579-a313-abe24e7bf27b](https://github.com/user-attachments/assets/06906b41-d9d5-4775-aedc-cfce0921a474)
-file Picture" width="200">
+<img src="mypicture.jpg" alt="Profile Picture" width="200">
 
 *Name:* Kengi B. Manongdo 
 *Course:* Bachelor of Science in Information Technology  
